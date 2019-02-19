@@ -4,4 +4,5 @@
 ----
 
 目录：
-[c语言目录](www.baidu.com)
+
+>[c语言目录](./c语言（The C Programming Language）)
