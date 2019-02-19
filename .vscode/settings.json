@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cstdio": "c",
+        "qstack.h": "c",
+        "qstack.h\u0000qstack.h": "c"
+    }
+}

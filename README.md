@@ -5,4 +5,4 @@
 
 目录：
 
->[c语言目录](./c语言（The C Programming Language）)
+>[c语言目录](https://github.com/zjufishboy/Qtool/tree/master/c%E8%AF%AD%E8%A8%80%EF%BC%88The%20C%20Programming%20Language%EF%BC%89)
