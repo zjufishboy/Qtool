@@ -36,7 +36,6 @@ void Push(Ptrtostack stack, elements x);
 elements Pop(Ptrtostack stack);
 //清空，将栈清空
 void EmptyQstack(Ptrtostack stack);
-
 /*函数实现*/
 
 Ptrtostack Createstack(int scale){
